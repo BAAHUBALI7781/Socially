@@ -1,0 +1,22 @@
+{
+  "name": "socially",
+  "version": "1.0.0",
+  "description": "A social networking site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BAAHUBALI7781/Socially.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BAAHUBALI7781/Socially/issues"
+  },
+  "homepage": "https://github.com/BAAHUBALI7781/Socially#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
