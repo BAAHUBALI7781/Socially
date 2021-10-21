@@ -4,4 +4,6 @@ const router=express.Router();
 const homeController=require("../controllers/home_controller");
 
 router.get('/',homeController.home_page);
+router.use('/user',require('./users'));
+
 module.exports=router;
